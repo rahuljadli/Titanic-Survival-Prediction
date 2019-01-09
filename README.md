@@ -21,8 +21,25 @@ data.head()
 
 ### Ploting the survival rate
 
-![alt Survived](https://github.com/rahuljadli/Titanic-Survival-Prediction/tree/master/screen_shots/survival.png)
+![alt Survived](https://github.com/rahuljadli/Titanic-Survival-Prediction/blob/master/screen_shots/Survival.png)
 
 ### Ploting Age graph
 
 ![alt Age](https://github.com/rahuljadli/Titanic-Survival-Prediction/blob/master/screen_shots/Age.png)
+
+### Ploting Survival Based on Sex
+
+![alt Sex Survival ](https://github.com/rahuljadli/Titanic-Survival-Prediction/blob/master/screen_shots/Survival_gender.png)
+
+### Ploting Survival Based on Passenger Class
+
+![alt Sex Survival ](https://github.com/rahuljadli/Titanic-Survival-Prediction/blob/master/screen_shots/Survival_Pclass.png)
+
+### Ploting Survival Based on Sibling
+
+![alt Sex Survival ](https://github.com/rahuljadli/Titanic-Survival-Prediction/blob/master/screen_shots/Survival_sibling.png)
+
+### Ploting Survival Based on Parents
+
+![alt Sex Survival ](https://github.com/rahuljadli/Titanic-Survival-Prediction/blob/master/screen_shots/Survival_parch.png)
+
