@@ -22,3 +22,7 @@ data.head()
 ### Ploting the survival rate
 
 ![alt Survived](https://github.com/rahuljadli/Titanic-Survival-Prediction/tree/master/screen_shots/survival.png)
+
+### Ploting Age graph
+
+![alt Age](https://github.com/rahuljadli/Titanic-Survival-Prediction/blob/master/screen_shots/Age.png)
