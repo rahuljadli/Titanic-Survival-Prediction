@@ -20,4 +20,4 @@ data.head()
 ~~~
 
 ### Pltoting the survival rate
-![alt welcome](https://github.com/Titanic-Survival-Prediction/blob/master/screen_shots/survived_people.png)
+![alt welcome](https://github.com/rahuljadli/Titanic-Survival-Prediction/tree/master/screen_shots/survival_people.png)
