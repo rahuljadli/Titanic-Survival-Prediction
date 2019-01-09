@@ -19,5 +19,5 @@ data=pd.read_csv('titanic_data.csv')
 data.head()
 ~~~
 
-### Pltoting the survival rate
-![alt welcome](https://github.com/rahuljadli/Titanic-Survival-Prediction/tree/master/screen_shots/survival_people.png)
+### Ploting the survival rate
+![alt welcome](https://github.com/rahuljadli/Titanic-Survival-Prediction/tree/master/screen_shots/survived_people.png)
